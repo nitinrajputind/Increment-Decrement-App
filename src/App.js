@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+import MainApp from './components/MainApp';
 import './App.css';
+
 
 function App() {
   return (
     <>
-    
+    <MainApp/>
     </>
   );
 }
